@@ -1,6 +1,7 @@
 ### Mapping to Java ([Ref](https://docs.oracle.com/cd/F49540_01/DOC/java.815/a64685/basic3.htm))
 |Oracle|Limit|⇒|Java|Limit|
 |---|---|---|---|---|
+|CHAR|a single 16-bit Unicode character|⇒|char||
 |CHAR|2000 bytes|⇒|java.lang.String||
 |VARCHAR2|4000 bytes|⇒|java.lang.String||
 |LONG|2GB - 1|⇒|java.lang.String||
